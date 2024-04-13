@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.codepairing.model.ShoppingCartTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-04-13T15:37:59" hostname="wenlins-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="shouldCalculatePriceForBuyFiveGetTwoFreeWith15Discount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.002"/>
+  <testcase name="shouldCalculatePriceFor15PercentDiscount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceForBuyFiveGetTwoFreeWith20Discount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceForBuyFiveGetTwoFreeWith10Discount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceWithNoDiscount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceForBuyFiveGetTwoFree" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculateLoyaltyPointsFor10PercentDiscount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceForBuyTwoGetOneFree" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceForBuyTwoGetOneFreeWith15Discount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceForBuyTwoGetOneFreeWith20Discount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceForBuyTwoGetOneFreeWith10Discount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.001"/>
+  <testcase name="shouldCalculatePriceForOver500Discount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculatePriceFor10PercentDiscount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculateLoyaltyPointsFor15PercentDiscount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <testcase name="shouldCalculateLoyaltyPointsWithNoDiscount" classname="com.thoughtworks.codepairing.model.ShoppingCartTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
